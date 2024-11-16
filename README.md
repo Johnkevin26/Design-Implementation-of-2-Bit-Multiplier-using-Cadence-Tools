@@ -1,4 +1,4 @@
-
+ 
 Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
 Aim:
